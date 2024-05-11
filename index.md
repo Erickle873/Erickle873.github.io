@@ -1,7 +1,7 @@
 #Hello World
 This is my home page! My name is Erick Legaspe and I am a student at Cal State Fullerton and my major is Electrical Engineering.
 ##Computer Science projects 
-My Github page is http://github.com/Erickle873!
+My Github page is http://github.com/Erickle873
 ###CPSC 120
 -Lab 5
 Because lab 5 involved geometry and numbers in coding, it was one of my favorite labs that we completed during the year. I was able to become well acquainted with statements for this lab. The fact that everything came together nicely made this lab enjoyable for me as well. 
